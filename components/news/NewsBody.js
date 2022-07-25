@@ -21,7 +21,7 @@ export default function NewsBody() {
               <p><span style={{fontWeight:'bold'}}>Date: </span>20-03-2022</p>
               <Card.Text>
                 Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                the bulk of the card&apos;s content.
               </Card.Text>
             </Card.Body>
             <Button style={{bacgrounColor:"red", width:'40%', margin:"0% 0% 5% 30%"}} variant="dark">View Details</Button>
@@ -43,7 +43,7 @@ export default function NewsBody() {
               <p><span style={{fontWeight:'bold'}}>Date: </span>20-03-2022</p>
               <Card.Text>
                 Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                the bulk of the card&apos;s content.
               </Card.Text>
             </Card.Body>
             <Button style={{bacgrounColor:"red", width:'40%', margin:"0% 0% 5% 30%"}} variant="dark">View Details</Button>
@@ -65,7 +65,7 @@ export default function NewsBody() {
               <p><span style={{fontWeight:'bold'}}>Date: </span>20-03-2022</p>
               <Card.Text>
                 Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                the bulk of the card&apos;s content.
               </Card.Text>
             </Card.Body>
             <Button style={{bacgrounColor:"red", width:'40%', margin:"0% 0% 5% 30%"}} variant="dark">View Details</Button>
@@ -90,7 +90,7 @@ export default function NewsBody() {
               <p><span style={{fontWeight:'bold'}}>Date: </span>20-03-2022</p>
               <Card.Text>
                 Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                the bulk of the card&apos;s content.
               </Card.Text>
             </Card.Body>
             <Button style={{bacgrounColor:"red", width:'40%', margin:"0% 0% 5% 30%"}} variant="dark">View Details</Button>
@@ -112,7 +112,7 @@ export default function NewsBody() {
               <p><span style={{fontWeight:'bold'}}>Date: </span>20-03-2022</p>
               <Card.Text>
                 Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                the bulk of the card&apos;s content.
               </Card.Text>
             </Card.Body>
             <Button style={{bacgrounColor:"red", width:'40%', margin:"0% 0% 5% 30%"}} variant="dark">View Details</Button>
@@ -134,7 +134,7 @@ export default function NewsBody() {
               <p><span style={{fontWeight:'bold'}}>Date: </span>20-03-2022</p>
               <Card.Text>
                 Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                the bulk of the card&apos;s content.
               </Card.Text>
             </Card.Body>
             <Button style={{bacgrounColor:"red", width:'40%', margin:"0% 0% 10% 30%"}} variant="dark">View Details</Button>

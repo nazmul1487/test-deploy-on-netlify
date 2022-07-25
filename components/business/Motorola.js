@@ -103,7 +103,7 @@ export default function Motorola() {
                   </p>
                   <p><span style={{ fontWeight: "bold", marginRight: "10px" }}>Display:
                     </span>
-                    6.5" HD+ Max Vision(20:9)
+                    6.5&quot; HD+ Max Vision(20:9)
                   </p>
                   <p><span style={{ fontWeight: "bold", marginRight: "10px" }}>Memory/Storage: 
                     </span>
@@ -115,7 +115,7 @@ export default function Motorola() {
                   </p>
                   <p><span style={{ fontWeight: "bold", marginRight: "10px" }}>Display:
                     </span>
-                    6.5" HD+ Max Vision(20:9)
+                    6.5&quot; HD+ Max Vision(20:9)
                   </p>
                   <p><span style={{ fontWeight: "bold", marginRight: "10px" }}>Memory/Storage: 
                     </span>
@@ -147,7 +147,7 @@ export default function Motorola() {
                   </p>
                   <p><span style={{ fontWeight: "bold", marginRight: "10px" }}>Display:
                     </span>
-                    6.5" HD+ Max Vision(20:9)
+                    6.5&quot; HD+ Max Vision(20:9)
                   </p>
                   <p><span style={{ fontWeight: "bold", marginRight: "10px" }}>Memory/Storage: 
                     </span>
@@ -159,7 +159,7 @@ export default function Motorola() {
                   </p>
                   <p><span style={{ fontWeight: "bold", marginRight: "10px" }}>Display:
                     </span>
-                    6.5" HD+ Max Vision(20:9)
+                    6.5&quot; HD+ Max Vision(20:9)
                   </p>
                   <p><span style={{ fontWeight: "bold", marginRight: "10px" }}>Memory/Storage: 
                     </span>
@@ -192,7 +192,7 @@ export default function Motorola() {
                   </p>
                   <p><span style={{ fontWeight: "bold", marginRight: "10px" }}>Display:
                     </span>
-                    6.5" HD+ Max Vision(20:9)
+                    6.5&quot; HD+ Max Vision(20:9)
                   </p>
                   <p><span style={{ fontWeight: "bold", marginRight: "10px" }}>Memory/Storage: 
                     </span>
@@ -204,7 +204,7 @@ export default function Motorola() {
                   </p>
                   <p><span style={{ fontWeight: "bold", marginRight: "10px" }}>Display:
                     </span>
-                    6.5" HD+ Max Vision(20:9)
+                    6.5&quot; HD+ Max Vision(20:9)
                   </p>
                   <p><span style={{ fontWeight: "bold", marginRight: "10px" }}>Memory/Storage: 
                     </span>

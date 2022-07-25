@@ -16,7 +16,7 @@ export default function AboutUsHome() {
                         terms of providing best quality quality products, fastest Delivery, official warranty and post Purchase Services.
                     </p>
                     <p style={{fontWeight:'bold',}}>
-                        <a href={'/about-us'}>More Details >></a>
+                        <a href={'/about-us'}>More Details &gt; </a>
                     </p>
                 </div>
             </Col>
