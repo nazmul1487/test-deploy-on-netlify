@@ -23,9 +23,7 @@ export default function JobSection() {
         </p>
       </div>
       <div style={{ margin:"0 15% 0 15%"}}>
-        <Row container direction="row"
-                      justifyContent="space-evenly"
-                      alignItems="center" data-aos="zoom-in" className="justify-content-md-center "  style={{backgroundColor:"black", color:'white',}}>
+        <Row direction="row" data-aos="zoom-in" className="justify-content-md-center "  style={{backgroundColor:"black", color:'white',}}>
           <Col className="justify-content-md-center mx-3 my-3" xs={12} lg="5">
             <h5>Software Developer</h5>
             <p><span style={{marginRight:"5%"}}><b>Experience:</b> 2+ Year </span><b>Deadline:</b>31/08/2021</p>
@@ -42,9 +40,7 @@ export default function JobSection() {
             </Button>
           </Col>
         </Row>
-        <Row container direction="row"
-                      justifyContent="space-evenly"
-                      alignItems="center" data-aos="zoom-out" className="justify-content-md-center mt-3" style={{backgroundColor:"black", color:'white',}}>
+        <Row direction="row" data-aos="zoom-out" className="justify-content-md-center mt-3" style={{backgroundColor:"black", color:'white',}}>
           <Col className="justify-content-md-center mx-3 my-3" xs={12} lg="5">
             <h5>Software Developer</h5>
             <p><span style={{marginRight:"5%"}}><b>Experience:</b> 2+ Year </span><b>Deadline:</b>31/08/2021</p>

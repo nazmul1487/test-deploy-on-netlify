@@ -49,8 +49,6 @@ export default function Accomplishment() {
         }}
       >
         <Row
-          justifyContent="space-evenly"
-          alignItems="center"
           data-aos="zoom-in"
           className="justify-content-md-center mx-5"
         >
